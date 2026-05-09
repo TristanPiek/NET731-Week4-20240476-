@@ -100,7 +100,7 @@ keeping strict security measures, it can develop custom roles.
 # Screenshots
 
 ## Users Created and Assigned
-![Users Created](screenshots/users-added-and-assigned.png)
+![Users Created](users-added-and-assigned.png)
 
 
 
