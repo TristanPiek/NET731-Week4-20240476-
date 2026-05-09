@@ -100,16 +100,19 @@ keeping strict security measures, it can develop custom roles.
 # Screenshots
 
 ## Users Created and Assigned
-![Users Created](users-added-and-assigned.png)
+![Users Created](screenshots/users-added-and-assigned.png)
+
 
 
 ## Department Groups
-![Department Groups](department-groups.png)
+![Department Groups](screenshots/department-groups.png)
+
 
 
 ## Correct Group Assignment
-![Correct Group Assignment](correct-group-assignment.png)
+![Correct Group Assignment](screenshots/correct-group-assignment.png)
+
 
 
 ## Group Role Assignment
-![Group Role Assignment](group-role-assignment.png)
+![Group Role Assignment](screenshots/group-role-assignment.png)
