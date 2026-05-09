@@ -20,12 +20,12 @@ creates a proffesional business standard and makes it easier to remeber.
 
 ### User List
 
-Adam Sandler
-Kevin James
-David Spade
-Rob Schneider
-Ben Stiller
-Chris Rock
+Adam Sandler,
+Kevin James,
+David Spade,
+Rob Schneider,
+Ben Stiller,
+Chris Rock,
 
 
 ### Group Names
