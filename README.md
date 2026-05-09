@@ -18,6 +18,22 @@ lastname.firstname@domain.onmicrosoft.com
 creates a proffesional business standard and makes it easier to remeber.
 
 
+### User List
+
+Adam Sandler
+Kevin James
+David Spade
+Rob Schneider
+Ben Stiller
+Chris Rock
+
+
+### Group Names
+
+Orion-Development
+Orion-Operations
+Orion-Finance
+
 ## Q2-Planning Groups and Departments
 
 For the Deparment I created 3 security groups that will work within the
@@ -79,4 +95,21 @@ Custom Roles are created when organisations require privileges that are not alre
 they develop these roles to suit those requirements. If a real organization wants to limit unnecessary access while still
 keeping strict security measures, it can develop custom roles.
 
+## Screenshots
 
+# Screenshots
+
+## Users Created and Assigned
+![Users Created](users-added-and-assigned.png)
+
+
+## Department Groups
+![Department Groups](department-groups.png)
+
+
+## Correct Group Assignment
+![Correct Group Assignment](correct-group-assignment.png)
+
+
+## Group Role Assignment
+![Group Role Assignment](group-role-assignment.png)
